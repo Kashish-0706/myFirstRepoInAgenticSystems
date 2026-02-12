@@ -1,4 +1,4 @@
-# defining code which asks the user for input until user provides zero and finally print sum of all numbers
+# defining a code which asks the user for input until user provides zero and finally print sum of all numbers
 sum = 0
 
 while True:
