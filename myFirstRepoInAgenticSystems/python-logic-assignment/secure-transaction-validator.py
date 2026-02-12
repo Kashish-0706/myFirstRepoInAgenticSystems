@@ -1,4 +1,4 @@
-# defining a code for secure transaction
+# defining the code for secure transaction
 account_balance =int(input("Enter your account balance:" ))
 withdrawal_amount = int(input("Enter the amount to be withdrawn:" ))
 
