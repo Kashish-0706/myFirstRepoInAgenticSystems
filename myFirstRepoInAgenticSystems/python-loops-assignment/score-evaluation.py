@@ -1,4 +1,4 @@
-# defining the program to evaluate the scores of the students
+# defining a program to evaluate the scores of the students
 
 scores = [72, 45, 89, 30, 60]
 
