@@ -1,4 +1,4 @@
-# defining a code which asks the user for a password until the user provides the correct password
+# defining code which asks the user for a password until the user provides the correct password
 correct_password = "admin123"
 entered_password = input("Enter password:" )
 
