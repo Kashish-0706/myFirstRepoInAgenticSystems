@@ -1,4 +1,4 @@
-# code for checking simple accuracy
+# defining code for checking simple accuracy
 user_input = input("Enter a floating-point accuracy value: ")
 # stretch requirement
 try:
