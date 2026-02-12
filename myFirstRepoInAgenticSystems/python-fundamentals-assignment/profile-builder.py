@@ -1,4 +1,4 @@
-# Building code for users profile
+# defining code for users profile
 user_name = input("Enter your name: ")
 user_age = int(input("Enter your age: "))
 user_active = bool(input("Enter your active status (True/False): "))
