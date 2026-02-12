@@ -1,7 +1,7 @@
 # code for providing the access to the user
 user_age = int(input("Enter your age:" ))
 
-# stretch requirement
+# the stretch requirement
 while True:
     user_id = input("Has id? (True/False):" ).lower()
     if user_id == "true":
